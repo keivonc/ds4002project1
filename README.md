@@ -32,6 +32,8 @@ For this project, a Jupyter notebook was used through Google Colaboratory, and t
 
 ### README.md
 
+### presentation.pdf
+
 
 ## Results Reproduction
 
