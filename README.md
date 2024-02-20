@@ -11,26 +11,26 @@ For this project, a Jupyter notebook was used through Google Colaboratory, and t
 
 ## Documentation Map
 
-###/DATA
+### /DATA
 
 + project1_data.csv
 + data_appendix.pdf
 
-###/OUTPUT
+### /OUTPUT
 
 + cmpd_scores_over_time_by_topic.png
 + nulls_per_column.png
 + num_economy_and_obama_titles.png
 + num_titles_over_time_by_topic.png
 
-###/SCRIPTS
+### /SCRIPTS
 
 + Project1.ipynb
 + how-to-run-code.md
 
-###LICENSE
+### LICENSE
 
-###README.md
+### README.md
 
 
 ## Results Reproduction
